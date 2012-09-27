@@ -7,10 +7,10 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 gem 'mysql2'
-gem 'pg'
+#gem 'pg'
 gem 'activerecord-postgresql-adapter'
 #gem "mysql2", :group => :development
-#gem "pg", :group => :production
+gem "pg", :group => :production
 
 # Gems used only for assets and not required
 # in production environments by default.
