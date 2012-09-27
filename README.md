@@ -1,4 +1,2 @@
-Peace-Project
+common-shared
 =============
-
-Peace Project
